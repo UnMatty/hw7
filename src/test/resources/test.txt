@@ -1,0 +1,3 @@
+get some string
+you know just some string
+i just want to read this file one more time
